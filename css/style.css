@@ -294,6 +294,7 @@ body {
 }
 
 .btn {
+  cursor: pointer;
   width: 90%;
   padding: 1rem 2rem;
   text-align: center;
@@ -314,6 +315,7 @@ body {
 }
 
 .btn-pro {
+  cursor: pointer;
   color: var(--color-dark);
   background-color: #fff;
   background-image: none;
